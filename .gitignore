@@ -6,3 +6,4 @@ venv_rgbaloes
 */static/img
 */static/admin
 static/
+*.pyc
